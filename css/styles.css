@@ -1,0 +1,32 @@
+/*Header Food, LLC*/
+.navbar-header {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.navbar-brand {
+	font-size: 2.2em;
+}
+
+.navbar-collapse ul {
+	padding-top: 10px;
+	text-align: center;
+	font-size: 1.3em;
+	border: 0;
+	width: 100%;
+}
+
+.navbar-collapse a {
+	color: #000000;
+}
+/*************End Header*************/
+/**********Body*****************/
+.col-xs-12{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+#item {
+	background-color: #D3D3D3;
+	box-sizing: border-box;
+}
+
